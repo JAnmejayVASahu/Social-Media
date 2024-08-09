@@ -1,0 +1,16 @@
+Dependency
+first we goes to backend folder 
+    |--> cd backend
+
+initilize the backend folder
+    |--> npm init -y
+
+Some dependency are required like 
+    |-> express --> npm i express
+    |-> moonges --> npm install mongoose
+    |-> nodemon --> npm install nodemon --save-dev
+    |-> JWT --> npm install jsonwebtoken
+    |-> Bcryptjs --> npm install bcryptjs
+    |-> Cookie --> npm install cookie-parser
+    |-> Cors --> npm install cors
+
